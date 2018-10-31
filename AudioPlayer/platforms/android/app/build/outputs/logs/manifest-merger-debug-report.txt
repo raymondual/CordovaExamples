@@ -9,7 +9,7 @@ INJECTED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\s
 INJECTED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:2:1-18:12
 INJECTED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:2:1-18:12
 	package
-		ADDED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:2:102-135
+		ADDED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:2:102-134
 		INJECTED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -19,7 +19,7 @@ INJECTED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\s
 	android:hardwareAccelerated
 		ADDED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
 	xmlns:android
-		ADDED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:2:136-194
+		ADDED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:2:135-193
 	android:versionCode
 		ADDED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
 		INJECTED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml
@@ -52,7 +52,7 @@ ADDED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\
 		ADDED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
 	android:icon
 		ADDED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
-activity#io.cordova.hellocordova.MainActivity
+activity#io.cordova.audioplayer.MainActivity
 ADDED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
 	android:label
 		ADDED from D:\MyWorkspace\CordovaExamples\AudioPlayer\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
