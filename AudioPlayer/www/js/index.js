@@ -42,8 +42,9 @@ var app = {
         var parentElement = document.getElementById(id);
         var listeningElement = parentElement.querySelector('.listening');
         var receivedElement = parentElement.querySelector('.received');
-
+        if(listeningElement)
         listeningElement.setAttribute('style', 'display:none;');
+        if(receivedElement)
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
